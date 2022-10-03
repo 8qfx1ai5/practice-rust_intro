@@ -1,2 +1,3 @@
-# practice-rust_intro
-Bunch of snippets and exercises with the language rust 
+# My learning steps in mastering Rust language
+
+Bunch of snippets and exercises with the language rust.
