@@ -8,4 +8,4 @@ compile:
 	rustc --out-dir output src/start.rs
 
 run: compile
-	output/start
+	output/start -f "examples/example10.txt"
