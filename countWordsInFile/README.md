@@ -15,12 +15,13 @@ Words can be seperated by one or more of the folloing characters, which have to 
 
 - " "
 - "-"
+- "_"
 - "."
+- ":"
 - ";"
 - ","
 - "/"
-- "_"
-- ":"
+- "\"
 - new line
 
 The case of all characters is not important and should be ignored, so hat "Home" and "home" are counted together as "2".
